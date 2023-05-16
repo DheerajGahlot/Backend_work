@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DheerajGahlot/Backend_work.git"
+  },
+  "author": "Dheeraj Gahlot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DheerajGahlot/Backend_work/issues"
+  },
+  "homepage": "https://github.com/DheerajGahlot/Backend_work#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22",
+    "simple-node-logger": "^21.8.12"
+  }
+}
